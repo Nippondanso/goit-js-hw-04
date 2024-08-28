@@ -1,5 +1,5 @@
-'use strict'
+// 'use strict'
 
-console.log("Task 4");
+// console.log("Task 4");
 
-console.log("\n");
+// console.log("\n");
